@@ -57,6 +57,7 @@ This will launch a Gradio web interface in your browser where you can upload loc
 
 The package requires the following dependencies:
 
+```
 requests==2.31.0
 beautifulsoup4==4.12.3
 Pillow==10.4.0
@@ -68,6 +69,7 @@ gradio==4.44.0
 pytest==8.3.3
 pydantic==2.9.1
 langchain==0.1.11
+```
 
 ### Testing
 The package includes basic tests for the core functionality. You can run the tests using pytest:
