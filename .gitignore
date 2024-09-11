@@ -5,6 +5,9 @@ env/
 my_env/
 *.egg-info/
 
+# Ignore dependencies or third-party libraries
+lib/
+
 # Ignore temporary files
 *.log
 *.txt
